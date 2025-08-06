@@ -1,0 +1,43 @@
+OrderNum,OrderDate,OrderType,CustomerType,CustName,CustState,ProdCategory,ProdNumber,ProdName,Quantity,Price,Discount,OrderTotal
+1100941,2024-09-02 00:00:00.000,Retail,Individual,Antonina Noton,Missouri,Drones,DS306,DX-145 Drone,2,250.00,0,500.00
+1100963,2024-09-05 00:00:00.000,Wholesale,Business,Stehr Group,North	Carolina,Drones,DS301,DA-SA702 Drone,3,399.00,$79.80,1117.20
+1100969,2024-09-06 00:00:00.000,Retail,Individual,Raimondo Goretti,Ohio,Drones,DS307,MICR-564K Drone,1,499.00,0,499.00
+1100971,2024-09-06 00:00:00.000,Wholesale,Business,Hettinger and Sons,West Virginia,Drones,DS306,DX-145 Drone,12,250.00,$50.00,2950.00
+1100972,2024-09-08 00:00:00.000,Wholesale,Business,Johnson and Sons,West Virginia,Drones,DS306,DX-145 Drone,11,250.00,$45.00,2356.33
+1100973,2024-09-12 00:00:00.000,Retail,Individual,Target Corp,Illinois,Blueprints,Dog Robot,BP-287 Blueprint,24,2.50,$0.50,50.01
+1100974,2024-09-12 00:00:00.000,Retail,Business,Walmart Corp,Washignton,Drones,DS306,DX-145 Drone,12,199.00,$87.34,456.78
+1100981,2024-09-14 00:00:00.000,Wholesale,Individual,Home Depot Inc.,South Dakota,Drones,DS306,DX-145 Drone,21,53.25,$5.00,2950.00
+1100989,2024-09-20 00:00:00.000,Retail,Individual,Donald Bump,Florida,Drones,DS306,DX-145 Drone,14,210.00,0,2950.00
+1100934,2024-09-01 00:00:00.000,Wholesale,Business,Gusikowski Group,North Carolina,Blueprints,BP102,Bsquare Robot Blueprint,10,8.99,$1.80,88.102
+1100935,2022-09-02 00:00:00.000,Retail,Individual,Spencer Educators,Delaware,Drone Kits,DK204,BYOD-300,2,89.00,0,178.00
+1100936,2024-09-01 00:00:00.000,Wholesale,Business,Schinner Inc.,Florida,Training	Videos,TV801,Aerial Security,10,36.99,$7.40,362.502
+1100937,2024-09-04 00:00:00.000,Retail,Individual,Saxon Laviss,Virginia,Robot Kits,RK602,BYOR-1000,1,189.00,0,189.00
+1100938,2024-09-10 00:00:00.000,Retail,Business,Wilderman Technologies,Texas,eBooks,EB502,Building Your First Robot,4,24.95,0,99.80
+1100939,2024-09-02 00:00:00.000,Wholesale,Business,Turcotte Corp,New York,Drones,DS302,DC-304 Drone,79,395.00,$79.00,31126.00
+1101870,2023-01-14 00:00:00.000,Wholesale,Business,Aarika Adlington,New Mexico,Robots,DR100,Delta Robots,1,250.00,0,250.00
+1101685,2022-12-18 00:00:00.000,Retail,Individual,Aaron Homenick,Lousiana,Drone Kits,BR-294,BYOD-400,1,499.0,$20.00,479.00
+1101370,2022-11-03 00:00:00.000,Retail,Individual,Abba Handman,Alabama,Blueprint,BP-456,Panda Robot Blueprint,1,210.00,0,210.00
+1102807,2023-06-05 00:00:00.000,Retail,Individual,Abbie Leroux,Florida,Drone,DR-231,DTI-84 Drone,2,250.00,0,500.00
+1104858,2024-03-26 00:00:00.000,Wholesale,Business,Abbott Group,Texas,Blueprint,RB-987,Cat Robot Blueprint,5,50.00,0,250.00
+1104758,2024-03-12 00:00:00.000,Wholesale,Business,Abbott Group,Texas,Robots,RB-456,Spherical Robots,9,10.00,$1.00,81.00
+1104687,2024-03-01 00:00:00.000,Wholesale,Business,Abbott Group,Texas,Robots,RB-324,Cartesian Robots,3,230.00,$30.00,600.00
+1103101,2023-07-13 00:00:00.000,Wholesale,Business,Abbott Group,Texas,TV-238,Understanding Arduino,Arduino Books,7,34.00,$4.00,210.00
+1102408,2023-04-06 00:00:00.000,Wholesale,Business,Abbott Group,Texas,Blueprint,BP-239,Upside Down Robot Blueprint,21,20.00,$1.00,400.00
+1102312,2023-03-22 00:00:00.000,Wholesale,Business,Abbott Group,Texas,Robots,RB-439,Upside Down Robot,11,350.00,0,3850.00
+1104681,2024-02-28 00:00:00.000,Wholesale,Business,Boehm Inc.,Texas,Blueprints,BP-457,Cat Robot Blueprint,3,37.92,0,113.772
+1100997,2022-09-11 00:00:00.000,Wholesale,Business,Boehm Inc.,Texas,Blueprints,BP-458,Cat Robot Blueprint,1,63.872,0,63.872
+1102988,2023-06-29 00:00:00.000,Wholesale,Business,Boehm Inc.,Texas,Drone Kits,BYOD-220,BYOD-220,4,441.60,0,883.20
+1105161,2024-05-09 00:00:00.000,Wholesale,Business,Boehm Inc.,Texas,Drone Kits,BYOD-500,BYOD-500,4,200.40,0,801.60
+1101378,2022-11-03 00:00:00.000,Wholesale,Business,Boehm Inc.,Texas,Drone Kits,BYOD-220,BYOD-220,1,193.20,0,193.20
+1101315,2022-10-25 00:00:00.000,Wholesale,Business,Boehm Inc.,Texas,eBooks,EB-876,Photograph Drones,1,521.65,0,521.65
+1105539,2024-07-03 00:00:00.000,Wholesale,Business,Boehm Inc.,Texas,eBooks,EB-875,Understanding Artificial Intelligence,13,19.2,0,249.60
+1105116,2024-05-03 00:00:00.000,Wholesale,Business,Boehm Inc.,Texas,eBooks,EB-877,Building Your Own Drone12,10,21.99,0,219.912
+1101622,2022-12-08 00:00:00.000,Wholesale,Business,Boehm Inc.,Texas,Robot Kits,BYOR-3000,BYOR-3000,100,127.97,0,12797.00
+1104322,2024-01-02 00:00:00.000,Wholesale,Business,Boehm Inc.,Texas,Robot Kits,BYOR-1500,BYOR-1500,125,14.81,$0.07,1852.20
+1104516,2024-02-06 00:00:00.000,Wholesale,Business,Boehm Inc.,Texas,Robot Kits,BYOR-1500,BYOR-1500,100,14.74,0,1474.20
+1104506,2024-02-04 00:00:00.000,Wholesale,Business,Boehm Inc.,Texas,Robots,RWW-75,RWW-75 Robot,250,334.83,0,83708.40
+1104835,2024-03-22 00:00:00.000,Wholesale,Business,Boehm Inc.,Texas,Robots,RCB-889,RCB-889 Robot,200,166.90,0,33379.20
+1102250,2023-03-12 00:00:00.000,Wholesale,Business,Boehm Inc.,Texas,Robots,RLK-9920,RLK-9920 Robot,12,279.60,0,3355.20
+1103310,2023-08-08 00:00:00.000,Wholesale,Business,Boehm Inc.,Texas,Training Videos,TV976,Mapping with Drones,200,20.04,0,4008.20
+1105471,2024-06-23 00:00:00.000,Wholesale,Business,Boehm Inc.,Texas,Training Videos,TV977,Aerial Security,200,18.27,0,3654.612
+1105833,2024-08-18 00:00:00.000,Wholesale,Business,Boehm Inc.,Texas,Training Videos,TV9768,Understanding Automation,160,22.42,0,3587.01

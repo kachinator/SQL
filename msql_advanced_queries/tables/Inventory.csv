@@ -1,0 +1,11 @@
+ProdCategory,ProdNumber,ProdName,RetailPrice,Cost,InStock,InventoryOnHand
+Blueprints,BP101,All Eyes Drone,9.99,3.7962,243,922.4766
+Blueprints,BP102,Bsquare Robot,8.99,3.4162,351,1199.0862
+Drone Kits,DK203,BYOD-220,200.99, 127.34,189,24067.26
+Blueprints,BP104,Cat Robot,4.99,1.8962,2229,4226.6298
+Drone Kits,DK201,BYOD-100,128.45,82.71,16,1323.36
+Blueprints,BP106,Hexacopter Drone,8.99,3.4162,334,1141.0108
+Blueprints,BP107,Ladybug Robot Blueprint,25.89,14.17,283,4010.11
+Drone Kits,DK204,BYOD-300,125.97,83.65,127,10623.55
+Blueprints,BP105,Creature Robot Arms,12.00,4.56,321,1463.76
+ScrewsTops,SC001,Hardened Screws,1.00,0.33,1500,500.00

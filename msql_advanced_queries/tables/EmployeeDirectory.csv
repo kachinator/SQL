@@ -1,0 +1,22 @@
+FirstName,LastName,Title,Department,Email,DepartmentID,EmployeeID,Manager
+Ainsley,Barnett,Customer Service Representative,Customer Service,abarnett@acme.com,2,1,8
+Dominic	,Buchanan,Product Manager,Travel	Products,dbuchanan@acme.com,8,10,2
+Hermione,Lane,Product Manager,Travel	Products,hlane@acme.com,8,11,2
+Quincy,	Lindsay,Designer,Marketing,qlindsay@acme.com,7,12,5
+Lewis,Rivas,Senior Writer,Marketing,lrivas@acme.com,7,13,77
+Ronald,Araujo,Customer Service Representative,Customer Service,raraujo@acme.com,7,14,8
+Lionel,Mess,Designer,Marketing,lmessi@acme.com,7,31,77
+Sean,Smith,Senior Writer,Marketing,ssmith@acme.com,7,32,77
+Trump,Jeff,Product Manager,Marketing,jtrump@acme.com,77,2,1
+Jeffrey	,Duhmmer,Designer,Travel	Products,jduhmmer@acme.com,76,40,8
+Roanna,Bush,Video Editor,Marketing,rbush@acme.com,7,58,77
+Ella,Callahan,Product Manager,Travel Products,ecallahan@acme.com,8,52,2
+Logan,Davenport,Sales Representative,Travel Products,ldavenport@acme.com,8,48,42
+Julie,Davenport,Customer Service Representative,Customer Service,jdavenport@acme.com,2,15,8
+Devin,David,CFO,Executive Team,ddavid@acme.com,1,49,37
+Yvette,Diaz,Web Designer,Marketing,ydiaz@acme.com,7,45,5
+Hector,Dillon,Accountant,Finance,hdillon@acme.com,4,22,49
+Donovan,England,Product Manager,Travel Products,dengland@acme.com,8,66,2
+Yvonne,Fischer,Product Manager,Travel Products,yfischer@acme.com,8,3,2
+Dacey,Flynn,Server Adminstrator,Information Systems,dflynn@acme.com,6,82,81
+Shay,Gaines,Product Manager,Travel Products,sgaines@acme.com,8,67,2
